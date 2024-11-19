@@ -5,49 +5,49 @@
         http://www.sitemaps.org/schemas/sitemap-image/1.1/sitemap-image.xsd">
 
     <url>
-        <loc>https://mnglei0124.github.io/lab7/</loc>
+        <loc>https://mnglei0124.github.io/lab6/</loc>
         <lastmod>2024-01-01</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>https://mnglei0124.github.io/lab7/latest-stories</loc>
+        <loc>https://mnglei0124.github.io/6/latest-stories</loc>
         <lastmod>2024-01-01</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>https://mnglei0124.github.io/lab7/travel-section</loc>
+        <loc>https://mnglei0124.github.io/lab6/travel-section</loc>
         <lastmod>2024-01-01</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>https://mnglei0124.github.io/lab7/nat-geo-tv</loc>
+        <loc>https://mnglei0124.github.io/lab6/nat-geo-tv</loc>
         <lastmod>2024-01-01</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>https://mnglei0124.github.io/lab7/oceanxplorers</loc>
+        <loc>https://mnglei0124.github.io/lab6/oceanxplorers</loc>
         <lastmod>2024-01-01</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>https://mnglei0124.github.io/lab7/animals</loc>
+        <loc>https://mnglei0124.github.io/lab6/animals</loc>
         <lastmod>2024-01-01</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>https://mnglei0124.github.io/lab7/magazine</loc>
+        <loc>https://mnglei0124.github.io/lab6/magazine</loc>
         <lastmod>2024-01-01</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>https://mnglei0124.github.io/lab7/newsletter</loc>
+        <loc>https://mnglei0124.github.io/lab6/newsletter</loc>
         <lastmod>2024-01-01</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
