@@ -4,11 +4,11 @@ export function FeaturedStories() {
 
   section.innerHTML = `
     <div class="container">
-      <h2 class="section-title mb-4">Latest Stories</h2>
+      <h2 class="section-title mb-4">Latest National Geographic Stories</h2>
       <div class="row g-4">
         <div class="col-md-8">
           <div class="featured-main position-relative">
-            <img src="path-to-main-image.jpg" class="img-fluid" alt="Main story">
+            <img src="path-to-main-image.jpg" class="img-fluid" alt="Main story about environmental impacts">
             <div class="featured-content position-absolute bottom-0 p-4 text-white">
               <span class="category">Environment</span>
               <h3 class="h2">Why more natural disasters could trigger a rise in paranormal beliefs</h3>
